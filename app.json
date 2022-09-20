@@ -1,7 +1,7 @@
 {
   "name": "TANJIRO-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Fagu12/TANJIRO-MD",
+  "repository": "https://github.com/Amxniya/TANJIRO-MD",
   "logo": "https://i.imgur.com/zoD0i0v.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
