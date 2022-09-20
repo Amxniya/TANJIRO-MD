@@ -30,7 +30,7 @@ TANJIRO-MD Multi Device is a automated whatsapp bot created by <a href="https://
 
 *EDIT SETTINGS*
 
-* [`ALL EDITING SETINGS`](https://github.com/Fagu12/TANJIRO-MD/blob/Jsl-Beta/settings.js)
+* [`ALL EDITING SETINGS`](https://github.com/Amxniya/TANJIRO-MD/blob/Jsl-Beta/settings.js)
 
 ## `Clone Repo & Installation dependencies`
 ```bash
